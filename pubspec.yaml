@@ -1,0 +1,19 @@
+name: tarea_3_tarjeta_uae
+description: "Tarea asíncrona 3: navegación a Acerca de y widget reutilizable Tarjeta UAE."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.13.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
